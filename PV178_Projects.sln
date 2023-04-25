@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PV178_Projects", "PV178_Projects\PV178_Projects.csproj", "{F08B3418-6E2D-4F90-B9F8-C5E1118A2B5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{D15A22BF-FB10-4164-9D51-3A3A11621564}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{0C831B96-C4C0-486B-86A1-5E492C417328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F08B3418-6E2D-4F90-B9F8-C5E1118A2B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08B3418-6E2D-4F90-B9F8-C5E1118A2B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08B3418-6E2D-4F90-B9F8-C5E1118A2B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08B3418-6E2D-4F90-B9F8-C5E1118A2B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15A22BF-FB10-4164-9D51-3A3A11621564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15A22BF-FB10-4164-9D51-3A3A11621564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15A22BF-FB10-4164-9D51-3A3A11621564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15A22BF-FB10-4164-9D51-3A3A11621564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C831B96-C4C0-486B-86A1-5E492C417328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C831B96-C4C0-486B-86A1-5E492C417328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C831B96-C4C0-486B-86A1-5E492C417328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C831B96-C4C0-486B-86A1-5E492C417328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7EBE1A5-4434-4BDF-ADCF-37C5FF7D3CEF}
+	EndGlobalSection
+EndGlobal
